@@ -1,0 +1,10 @@
+﻿  main.cpp
+main.cpp(76): warning C4018: “<”: 有符号/无符号不匹配
+main.cpp(92): warning C4018: “<”: 有符号/无符号不匹配
+main.cpp(1598): warning C4101: “s”: 未引用的局部变量
+  正在生成代码
+  2 of 636 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    21 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  编译原理课程设计.vcxproj -> C:\Users\WY\Downloads\编译原理课程设计\编译原理课程设计\提交内容\编译原理课程设计工程文件\Release\编译原理课程设计.exe

@@ -1,0 +1,9 @@
+main()
+{
+	int a=5;
+	double s=11.2;
+	char d='a';
+	double a=2;
+	for(int i=5;i<10;i++)
+		s=s+10;
+}

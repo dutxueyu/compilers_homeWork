@@ -1,0 +1,10 @@
+main()
+{
+	int a=3;
+	int b=6,c;
+	if(a==b)
+		c=b+a;
+	else
+		c++;
+	b=a+c/2-5;
+}

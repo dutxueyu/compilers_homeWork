@@ -1,0 +1,14 @@
+main()
+{
+	int a=3;
+	double c=5.02;
+	for(int i=1;i<5:i++)
+	{
+		c=c/2;
+		a=a+5
+	}
+	while(a<6)
+	{
+		c=c-1;
+		a++;
+	}
